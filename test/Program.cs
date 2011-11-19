@@ -19,8 +19,9 @@ namespace test
         {
 
             //MyMail.test1();
-            MyOffice.testWord();
-            MyHtml.test();
+            //MyOffice.testWord();
+            //MyHtml.test();
+
             Console.ReadLine();
         }
     }
